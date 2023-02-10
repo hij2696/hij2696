@@ -43,7 +43,7 @@
 	<a href="mailto:ijhwang98@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://chambray-pendulum-8a8.notion.site/2688dd13a9f44790891b6f84ae8b8062?v=53ad22d0682546739f9620e6ff81df1d">
+	<a href="https://hwangsongsong.notion.site/2688dd13a9f44790891b6f84ae8b8062?v=53ad22d0682546739f9620e6ff81df1d">
 		<img src="https://img.shields.io/badge/Notion-2E3340?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
