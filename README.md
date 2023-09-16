@@ -50,14 +50,17 @@
 	<br>
 </div>
 <div align=center>
-<br>
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hij2696&layout=compact">
+	<br>
+	<br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hij2696)](https://solved.ac/hij2696)
 </div>
 <div align=center>
-<br>
-<p>🏆 Codetree score 🏆</p>
+	<br>
+	<p>🏆 Codetree score 🏆</p>
 	
 [![](https://banner.codetree.ai/v1/banner/hij2696)](https://www.codetree.ai/profiles/hij2696)
 </div>
